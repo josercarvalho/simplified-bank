@@ -145,7 +145,7 @@ SimplifiedBank.Tests/        # Testes de software (planejado)
 
 ## 📌 Status do Projeto
 
-Este projeto está em **estágio avançado de desenvolvimento** e está sendo atualizado continuamente.
+Versão 01 concluída. Novas funcionalidades poderão ser implementadas futuramente.
 
 ---
 
